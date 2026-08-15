@@ -1,0 +1,3056 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(./tex/tehran-thesis.cls
+
+LaTeX Warning: You have requested document class `./tex/tehran-thesis',
+               but the document class provides `tehran-thesis'.
+
+Document Class: tehran-thesis 05/09/2017 v0.1 Persian thesis document class in 
+XeLaTeX for University of Tehran projects/theses/dissertations
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo))) (./tex/commands.tex
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+
+Package xcolor Warning: Package option `usenames' is obsolete and ignored on in
+put line 266.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/svgnam.def)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpagemodern.sty) 
+)) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/ifdraft.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/todonotes/todonotes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex)))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered
+.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f))))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex))
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-xetex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty)
+Writing index file main.idx
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+(/usr/share/texlive/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xfor/xfor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-fp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp.sty
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(/usr/share/texlive/texmf-dist/tex/latex/fp/defpattern.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-basic.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-addons.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-snap.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-exp.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-trigo.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-pas.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-random.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eqn.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-upn.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eval.sty))))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.st
+y) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty
+(/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/morewrites/morewrites.sty
+(/usr/share/texlive/texmf-dist/tex/latex/morewrites/primargs.sty))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.st
+y) (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/bidi.sty
+****************************************************
+* 
+* bidi package (Bidirectional typesetting in
+* plain TeX and LaTeX, using XeTeX engine)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2007--2023 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub organization
+* 
+* v39.8 (Release Donald Ervin Knuth), 2023/08/02
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/bidi
+* 
+* Issue tracker: https://github.com/kvafa/bidi/issues
+* 
+* Discussions: https://github.com/kvafa/bidi/discussions
+* 
+* Primary author of bidi package: Vafa Khalighi.
+* 
+****************************************************
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/biditools.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/book-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/amsmath-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/amstext-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/amsthm-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/caption-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/caption3-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/color-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/xcolor-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/colortbl-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/float-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/graphicx-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/geometry-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/tabularx-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/longtable-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/hyperref-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/fancyhdr-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/framed-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/listings-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/pgfcorescopes.code-xetex-bidi.d
+ef) (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/array-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/pgfsys.code-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/rotating-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/tabulary-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/tocbibind-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/tocloft-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/tc-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/todonotes-xetex-bidi.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.def))
+****************************************************
+* 
+* xepersian package (Persian for LaTeX, using XeTeX engine)
+* 
+* Description: The package supports Persian
+* typesetting, using fonts provided in the
+* distribution.
+* 
+* Copyright (c) 2008--2023 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub Organization
+* 
+* v25.0 (Release Women, Life, and Freedom), 2023/08/30
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/xepersian
+* 
+* Issue tracker: https://github.com/kvafa/xepersian/issues
+* 
+* Discussions: https://github.com/kvafa/xepersian/discussions
+* 
+* Primary author of xepersian package: Vafa Khalighi.
+* 
+****************************************************
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
+) (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/footnote-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/listings-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/algorithmic-xepersian.def)
+ (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/algorithm-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/framed-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/glossaries-xepersian.def
+
+Package glossaries Warning: \glsaddprotectedpagefmt has no effect with esclocat
+ions=false on input line 41.
+
+
+Package glossaries Warning: \glsaddprotectedpagefmt has no effect with esclocat
+ions=false on input line 42.
+
+
+Package glossaries Warning: \glsaddprotectedpagefmt has no effect with esclocat
+ions=false on input line 43.
+
+) (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/hyperref-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/tocloft-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/url-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/book-xepersian.def)
+
+! LaTeX Error: Unknown option `localize' for package `xepersian'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1505 
+       
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/extrafootnotefeatures-xetex-bid
+i.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/extrafootnotefeatures-xepe
+rsian.def))
+
+Package amsthm Warning: Unknown theoremstyle `theorem' on input line 176.
+
+) (./tex/faTitle.tex) (./tex/enTitle.tex) (./tex/glossaries-settings.tex)
+(./tex/words.tex) (./tex/acronyms.tex) (./main.aux (./tex/chapter1.aux)
+(./tex/chapter2.aux) (./tex/chapter3.aux) (./tex/chapter4.aux)
+(./tex/chapter5.aux) (./tex/appendix1.aux) (./tex/appendix2.aux)
+(./tex/appendix3.aux)
+
+LaTeX Warning: Label `LastPage' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(./main.out) (./main.out)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty)
+(./tex/thesis_preamble.tex
+Overfull \hbox (5.42651pt too wide) in paragraph at lines 2--2
+ [][][][] 
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/IRLotusICEE.ttf(1)/bx/n' undefined
+(Font)              using `TU/IRLotusICEE.ttf(1)/m/n' instead on input line 2.
+
+
+LaTeX Font Warning: Font shape `TU/IRLotusICEE.ttf(1)/m/it' undefined
+(Font)              using `TU/IRLotusICEE.ttf(1)/m/n' instead on input line 2.
+
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 2--2
+[][] [] []
+
+LaTeX Font Warning: Font shape `TU/IRTitr.ttf(1)/b/n' undefined
+(Font)              using `TU/IRTitr.ttf(1)/m/n' instead on input line 2.
+
+[1] (./main.mw) [2] (./main.mw) [3] (./main.mw) [4] (./main.mw)
+Overfull \hbox (5.42651pt too wide) in paragraph at lines 14--14
+ [][][][] 
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 14--14
+[][] [] []
+[5] (./main.mw) [6] (./main.mw)
+Overfull \hbox (21.20624pt too wide) in paragraph at lines 14--14
+[][]$[]$ $[]$ $[]$ []
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[][]
+[7] (./main.mw) [8] (./main.mw) [9] (./main.mw) [10] (./main.mw) [11]
+(./main.mw) [12] (./main.mw)
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[][]
+[13] (./main.mw) [14] (./main.mw) [15] (./main.mw) [16] (./main.mw)
+Overfull \hbox (1.71272pt too wide) in paragraph at lines 15--15
+[][]\TU/LiberationSerif-Regular.ttf(0)/m/n/12 thesis[] \TU/IRLotusICEE.ttf(0)/m
+/n/12 و بستهٔ زی‌پرشین در []\TU/LiberationSerif-Regular.ttf(0)/m/n/12 L[]T[]X[]
+ \TU/IRLotusICEE.ttf(0)/m/n/12 تهیه شده است. این قالب به گونه‌ای طراحی شده است 
+که مطابق با دستورالعمل[]
+[17] (./main.mw) [18] (./main.mw) (./main.toc
+
+LaTeX Font Warning: Font shape `TU/IRLotusICEE.ttf(1)/b/n' undefined
+(Font)              using `TU/IRLotusICEE.ttf(1)/m/n' instead on input line 6.
+
+
+Underfull \vbox (badness 3179) has occurred while \output is active [1]
+(./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[2] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[3] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[4] (./main.mw) (./main.lof) [5] (./main.mw) (./main.lot) [6] (./main.mw)
+(./main.loa) [7] (./main.mw) (./main.lol) [8] (./main.mw)
+No file main.acr.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[9] (./main.mw)) (./tex/chapter1.tex
+فصل 1.
+
+LaTeX Warning: Citation `Khalighi87xepersian' on page 1 undefined on input line
+ 10.
+
+
+LaTeX Warning: Citation `UTThesisGuide' on page 1 undefined on input line 16.
+
+[1] (./main.mw)
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[2] (./main.mw)
+Overfull \hbox (9.78835pt too wide) in paragraph at lines 102--112
+[][]\TU/LiberationSerif-Regular.ttf(0)/m/n/12 TeXstudio[]\TU/IRLotusICEE.ttf(0)
+/m/n/12 ، []\TU/LiberationSerif-Regular.ttf(0)/m/n/12 Texmaker[] \TU/IRLotusICE
+E.ttf(0)/m/n/12 و []\TU/LiberationSerif-Regular.ttf(0)/m/n/12 BiDiTeXmaker[] \T
+U/IRLotusICEE.ttf(0)/m/n/12 بدین منظور تولید شده‌اند. می‌توان ویرایش‌گر [][][][
+]\TU/LiberationSerif-Regular.ttf(0)/m/n/12 BiDiTeXmaker[][][][][][][][][][]
+
+Overfull \hbox (3.40427pt too wide) in paragraph at lines 159--170
+[][]\TU/IRLotusICEE.ttf(0)/m/n/12 برای راحتی بیشتر، کلاس []\TU/LiberationSerif-
+Regular.ttf(0)/m/n/12 tehran-thesis.cls[] \TU/IRLotusICEE.ttf(0)/m/n/12 طوری طر
+احی شده است که کافی است فقط یک‌بار مشخصات[]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[3] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[4] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[5] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[6] (./main.mw)
+
+LaTeX Warning: Citation `kim2016integrated' on page 7 undefined on input line 3
+06.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[7] (./main.mw)
+Underfull \vbox (badness 3333) has occurred while \output is active
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[8] (./main.mw)
+
+LaTeX Warning: Citation `UTThesisGuide' on page 9 undefined on input line 331.
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[9] (./main.mw) (./tex/chapter2.tex [10] (./main.mw)
+فصل 2.
+[11] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.89014pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.89014pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.89014pt}.
+
+[12] (./main.mw) (./tex/chapter3.tex
+فصل 3.
+[13] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[14] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[15] (./main.mw) (./tex/chapter4.tex [16] (./main.mw)
+فصل 4.
+)
+Underfull \vbox (badness 10000) has occurred while \output is active [17]
+(./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.86447pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.86447pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.86447pt}.
+
+[18] (./main.mw) (./tex/chapter5.tex
+فصل 5.
+[19] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[20] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[21] (./main.mw)
+No file main.bbl.
+(./tex/appendix1.tex [22] (./main.mw)
+پیوست آ.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [23]
+(./main.mw)
+Underfull \vbox (badness 1371) has occurred while \output is active
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[24] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[25] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[26] (./main.mw)
+
+LaTeX Warning: Citation `Gonzalez02book' on page 27 undefined on input line 134
+.
+
+
+Overfull \hbox (18.16856pt too wide) in paragraph at lines 142--142
+[][]\TU/lmtt/m/n/12 Gonzalez, R.C., and Woods, R.E. {\em Digital Image Processi
+ng}, 3rd ed..[] []
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[27] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[28] (./main.mw) (./tex/appendix2.tex
+پیوست ب.
+[29] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.87088pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.87088pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.87088pt}.
+
+[30] (./main.mw) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+) (./code/MatlabExample.m)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.87088pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.87088pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.87088pt}.
+
+[31] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.87088pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.87088pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.87088pt}.
+
+[32] (./main.mw)
+Overfull \hbox (1.43784pt too wide) in paragraph at lines 202--240
+[][]\TU/IRLotusICEE.ttf(0)/m/n/12 لاتک بسته‌هایی با قابلیت‌های زیاد برای رسم ان
+واع مختلف نمودارها دارد. مانند بسته‌های []\TU/LiberationSerif-Regular.ttf(0)/m/
+n/12 Tikz[] \TU/IRLotusICEE.ttf(0)/m/n/12 و []\TU/LiberationSerif-Regular.ttf(0
+)/m/n/12 PSTricks[]\TU/IRLotusICEE.ttf(0)/m/n/12 .[]
+
+Underfull \vbox (badness 3417) has occurred while \output is active
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.87088pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.87088pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.87088pt}.
+
+[33] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.87088pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.87088pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.87088pt}.
+
+[34] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.87088pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.87088pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.87088pt}.
+
+[35] (./main.mw) (./tex/appendix3.tex [36] (./main.mw)
+پیوست پ.
+
+LaTeX Warning: Citation `persianbib87userguide' on page 37 undefined on input l
+ine 20.
+
+
+LaTeX Warning: Citation `persianbib87userguide' on page 37 undefined on input l
+ine 26.
+
+[37] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[38] (./main.mw)
+
+LaTeX Warning: Citation `UTThesisGuide' on page 39 undefined on input line 84.
+
+
+LaTeX Warning: Citation `UTThesisGuide' on page 39 undefined on input line 106.
+
+
+
+LaTeX Warning: Citation `Khalighi87xepersian' on page 39 undefined on input lin
+e 117.
+
+
+LaTeX Warning: Citation `persianbib87userguide' on page 39 undefined on input l
+ine 117.
+
+
+LaTeX Warning: Citation `Gonzalez02book' on page 39 undefined on input line 117
+.
+
+
+LaTeX Warning: Citation `kim2016integrated' on page 39 undefined on input line 
+117.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[39] (./main.mw)
+
+LaTeX Warning: Citation `UTThesisGuide' on page 40 undefined on input line 127.
+
+
+
+LaTeX Warning: Citation `UTThesisGuide' on page 40 undefined on input line 135.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[40] (./main.mw)
+
+LaTeX Warning: Citation `Baker02limits' on page 41 undefined on input line 175.
+
+
+
+LaTeX Warning: Citation `Amintoosi09video' on page 41 undefined on input line 1
+77.
+
+
+LaTeX Warning: Citation `Gonzalez02book' on page 41 undefined on input line 179
+.
+
+
+LaTeX Warning: Citation `Khalighi07MscThesis' on page 41 undefined on input lin
+e 181.
+
+
+LaTeX Warning: Citation `Borman04thesis' on page 41 undefined on input line 183
+.
+
+
+LaTeX Warning: Citation `Vahedi87' on page 41 undefined on input line 188.
+
+
+LaTeX Warning: Citation `Amintoosi87afzayesh' on page 41 undefined on input lin
+e 190.
+
+
+LaTeX Warning: Citation `Pedram80osool' on page 41 undefined on input line 192.
+
+
+
+LaTeX Warning: Citation `Pourmousa88mscThesis' on page 41 undefined on input li
+ne 194.
+
+
+LaTeX Warning: Citation `Omidali82phdThesis' on page 41 undefined on input line
+ 200.
+
+
+LaTeX Warning: Citation `persianbib87userguide' on page 41 undefined on input l
+ine 202.
+
+
+LaTeX Warning: Citation `Khalighi87xepersian' on page 41 undefined on input lin
+e 202.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[41] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[42] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[43] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[44] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[45] (./main.mw)
+No file main.bls.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[1] (./main.mw)
+No file main.gls.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[2] (./main.mw)
+No file main.ind.
+[3] (./main.mw) [4] (./main.mw) [5] (./main.mw)
+Overfull \hbox (5.42651pt too wide) in paragraph at lines 105--105
+ [][][][] 
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 105--105
+[][] [] []
+[6] (./main.mw) 
+enddocument/afterlastpage: lastpage setting LastPage.
+(./main.aux (./tex/chapter1.aux) (./tex/chapter2.aux) (./tex/chapter3.aux)
+(./tex/chapter4.aux) (./tex/chapter5.aux) (./tex/appendix1.aux)
+(./tex/appendix2.aux) (./tex/appendix3.aux))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(see the transcript file for additional information)
+Output written on main.pdf (78 pages).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(./tex/tehran-thesis.cls
+
+LaTeX Warning: You have requested document class `./tex/tehran-thesis',
+               but the document class provides `tehran-thesis'.
+
+Document Class: tehran-thesis 05/09/2017 v0.1 Persian thesis document class in 
+XeLaTeX for University of Tehran projects/theses/dissertations
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo))) (./tex/commands.tex
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+
+Package xcolor Warning: Package option `usenames' is obsolete and ignored on in
+put line 266.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/svgnam.def)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpagemodern.sty) 
+)) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/ifdraft.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/todonotes/todonotes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex)))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered
+.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f))))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex))
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-xetex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty)
+Writing index file main.idx
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+(/usr/share/texlive/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xfor/xfor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-fp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp.sty
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(/usr/share/texlive/texmf-dist/tex/latex/fp/defpattern.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-basic.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-addons.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-snap.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-exp.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-trigo.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-pas.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-random.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eqn.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-upn.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eval.sty))))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.st
+y) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty
+(/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/morewrites/morewrites.sty
+(/usr/share/texlive/texmf-dist/tex/latex/morewrites/primargs.sty))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.st
+y) (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/bidi.sty
+****************************************************
+* 
+* bidi package (Bidirectional typesetting in
+* plain TeX and LaTeX, using XeTeX engine)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2007--2023 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub organization
+* 
+* v39.8 (Release Donald Ervin Knuth), 2023/08/02
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/bidi
+* 
+* Issue tracker: https://github.com/kvafa/bidi/issues
+* 
+* Discussions: https://github.com/kvafa/bidi/discussions
+* 
+* Primary author of bidi package: Vafa Khalighi.
+* 
+****************************************************
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/biditools.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/book-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/amsmath-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/amstext-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/amsthm-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/caption-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/caption3-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/color-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/xcolor-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/colortbl-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/float-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/graphicx-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/geometry-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/tabularx-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/longtable-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/hyperref-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/fancyhdr-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/framed-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/listings-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/pgfcorescopes.code-xetex-bidi.d
+ef) (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/array-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/pgfsys.code-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/rotating-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/tabulary-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/tocbibind-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/tocloft-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/tc-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/todonotes-xetex-bidi.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.def))
+****************************************************
+* 
+* xepersian package (Persian for LaTeX, using XeTeX engine)
+* 
+* Description: The package supports Persian
+* typesetting, using fonts provided in the
+* distribution.
+* 
+* Copyright (c) 2008--2023 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub Organization
+* 
+* v25.0 (Release Women, Life, and Freedom), 2023/08/30
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/xepersian
+* 
+* Issue tracker: https://github.com/kvafa/xepersian/issues
+* 
+* Discussions: https://github.com/kvafa/xepersian/discussions
+* 
+* Primary author of xepersian package: Vafa Khalighi.
+* 
+****************************************************
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
+) (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/footnote-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/listings-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/algorithmic-xepersian.def)
+ (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/algorithm-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/framed-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/glossaries-xepersian.def
+
+Package glossaries Warning: \glsaddprotectedpagefmt has no effect with esclocat
+ions=false on input line 41.
+
+
+Package glossaries Warning: \glsaddprotectedpagefmt has no effect with esclocat
+ions=false on input line 42.
+
+
+Package glossaries Warning: \glsaddprotectedpagefmt has no effect with esclocat
+ions=false on input line 43.
+
+) (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/hyperref-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/tocloft-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/url-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/book-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/extrafootnotefeatures-xetex-bid
+i.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/extrafootnotefeatures-xepe
+rsian.def))
+
+Package amsthm Warning: Unknown theoremstyle `theorem' on input line 176.
+
+) (./tex/faTitle.tex) (./tex/enTitle.tex) (./tex/glossaries-settings.tex)
+(./tex/words.tex) (./tex/acronyms.tex)
+No file main.aux.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty)
+(./tex/thesis_preamble.tex
+Overfull \hbox (5.42651pt too wide) in paragraph at lines 2--2
+ [][][][] 
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/IRLotusICEE.ttf(1)/bx/n' undefined
+(Font)              using `TU/IRLotusICEE.ttf(1)/m/n' instead on input line 2.
+
+
+LaTeX Font Warning: Font shape `TU/IRLotusICEE.ttf(1)/m/it' undefined
+(Font)              using `TU/IRLotusICEE.ttf(1)/m/n' instead on input line 2.
+
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 2--2
+[][] [] []
+
+LaTeX Font Warning: Font shape `TU/IRTitr.ttf(1)/b/n' undefined
+(Font)              using `TU/IRTitr.ttf(1)/m/n' instead on input line 2.
+
+[1] (./main.mw) [2] (./main.mw) [3] (./main.mw) [4] (./main.mw)
+Overfull \hbox (5.42651pt too wide) in paragraph at lines 14--14
+ [][][][] 
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 14--14
+[][] [] []
+[5] (./main.mw) [6] (./main.mw)
+Overfull \hbox (21.20624pt too wide) in paragraph at lines 14--14
+[][]$[]$ $[]$ $[]$ []
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[][]
+[7] (./main.mw) [8] (./main.mw) [9] (./main.mw) [10] (./main.mw) [11]
+(./main.mw) [12] (./main.mw)
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[][]
+[13] (./main.mw) [14] (./main.mw) [15] (./main.mw) [16] (./main.mw)
+Overfull \hbox (1.71272pt too wide) in paragraph at lines 15--15
+[][]\TU/LiberationSerif-Regular.ttf(0)/m/n/12 thesis[] \TU/IRLotusICEE.ttf(0)/m
+/n/12 و بستهٔ زی‌پرشین در []\TU/LiberationSerif-Regular.ttf(0)/m/n/12 L[]T[]X[]
+ \TU/IRLotusICEE.ttf(0)/m/n/12 تهیه شده است. این قالب به گونه‌ای طراحی شده است 
+که مطابق با دستورالعمل[]
+[17] (./main.mw) [18] (./main.mw)
+No file main.toc.
+[1] (./main.mw)
+No file main.lof.
+[2] (./main.mw)
+No file main.lot.
+[3] (./main.mw) [4] (./main.mw)
+No file main.loa.
+[5] (./main.mw)
+No file main.lol.
+[6] (./main.mw)
+No file main.acr.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[7] (./main.mw)) (./tex/chapter1.tex
+فصل 1.
+
+LaTeX Font Warning: Font shape `TU/IRLotusICEE.ttf(1)/b/n' undefined
+(Font)              using `TU/IRLotusICEE.ttf(1)/m/n' instead on input line 3.
+
+
+LaTeX Warning: Citation `Khalighi87xepersian' on page 1 undefined on input line
+ 10.
+
+
+LaTeX Warning: Citation `UTThesisGuide' on page 1 undefined on input line 16.
+
+[1] (./main.mw)
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[2] (./main.mw)
+Overfull \hbox (9.78835pt too wide) in paragraph at lines 102--112
+[][]\TU/LiberationSerif-Regular.ttf(0)/m/n/12 TeXstudio[]\TU/IRLotusICEE.ttf(0)
+/m/n/12 ، []\TU/LiberationSerif-Regular.ttf(0)/m/n/12 Texmaker[] \TU/IRLotusICE
+E.ttf(0)/m/n/12 و []\TU/LiberationSerif-Regular.ttf(0)/m/n/12 BiDiTeXmaker[] \T
+U/IRLotusICEE.ttf(0)/m/n/12 بدین منظور تولید شده‌اند. می‌توان ویرایش‌گر [][][][
+]\TU/LiberationSerif-Regular.ttf(0)/m/n/12 BiDiTeXmaker[][][][][][][][][][]
+
+LaTeX Warning: Reference `app:latexIntro' on page 3 undefined on input line 122
+.
+
+
+Overfull \hbox (3.40427pt too wide) in paragraph at lines 159--170
+[][]\TU/IRLotusICEE.ttf(0)/m/n/12 برای راحتی بیشتر، کلاس []\TU/LiberationSerif-
+Regular.ttf(0)/m/n/12 tehran-thesis.cls[] \TU/IRLotusICEE.ttf(0)/m/n/12 طوری طر
+احی شده است که کافی است فقط یک‌بار مشخصات[]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[3] (./main.mw)
+
+LaTeX Warning: Reference `muchFiles' on page 4 undefined on input line 189.
+
+
+LaTeX Warning: Reference `Sec:Ref' on page 4 undefined on input line 224.
+
+
+LaTeX Warning: Reference `app:latexIntro' on page 4 undefined on input line 224
+.
+
+
+LaTeX Warning: Reference `app:refMan' on page 4 undefined on input line 224.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[4] (./main.mw)
+
+LaTeX Warning: Reference `app:refMan' on page 5 undefined on input line 244.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[5] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[6] (./main.mw)
+
+LaTeX Warning: Citation `kim2016integrated' on page 7 undefined on input line 3
+06.
+
+
+LaTeX Warning: Reference `fig:sampleDiagram' on page 7 undefined on input line 
+308.
+
+
+LaTeX Warning: Reference `chap:results' on page 7 undefined on input line 318.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[7] (./main.mw)
+Underfull \vbox (badness 3333) has occurred while \output is active
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[8] (./main.mw)
+
+LaTeX Warning: Citation `UTThesisGuide' on page 9 undefined on input line 331.
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[9] (./main.mw) (./tex/chapter2.tex [10] (./main.mw)
+فصل 2.
+[11] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.89014pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.89014pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.89014pt}.
+
+[12] (./main.mw) (./tex/chapter3.tex
+فصل 3.
+[13] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[14] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[15] (./main.mw) (./tex/chapter4.tex [16] (./main.mw)
+فصل 4.
+)
+Underfull \vbox (badness 10000) has occurred while \output is active [17]
+(./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.86447pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.86447pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.86447pt}.
+
+[18] (./main.mw) (./tex/chapter5.tex
+فصل 5.
+[19] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[20] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[21] (./main.mw)
+No file main.bbl.
+(./tex/appendix1.tex [22] (./main.mw)
+پیوست آ.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [23]
+(./main.mw)
+
+LaTeX Warning: Reference `eq:yek' on page 24 undefined on input line 30.
+
+
+LaTeX Warning: Reference `zirbakhsh' on page 24 undefined on input line 40.
+
+
+LaTeX Warning: Reference `formula' on page 24 undefined on input line 40.
+
+
+LaTeX Warning: Reference `formula' on page 24 undefined on input line 42.
+
+
+Underfull \vbox (badness 1371) has occurred while \output is active
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[24] (./main.mw)
+
+LaTeX Warning: Reference `fig:shir' on page 25 undefined on input line 59.
+
+
+LaTeX Warning: Reference `fig:shir' on page 25 undefined on input line 66.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[25] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[26] (./main.mw)
+
+LaTeX Warning: Reference `eq1' on page 27 undefined on input line 117.
+
+
+LaTeX Warning: Reference `eq2' on page 27 undefined on input line 127.
+
+
+LaTeX Warning: Reference `eq1' on page 27 undefined on input line 127.
+
+
+LaTeX Warning: Citation `Gonzalez02book' on page 27 undefined on input line 134
+.
+
+
+Overfull \hbox (18.16856pt too wide) in paragraph at lines 142--142
+[][]\TU/lmtt/m/n/12 Gonzalez, R.C., and Woods, R.E. {\em Digital Image Processi
+ng}, 3rd ed..[] []
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[27] (./main.mw)
+
+LaTeX Warning: Reference `app:refMan' on page 28 undefined on input line 154.
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[28] (./main.mw) (./tex/appendix2.tex
+پیوست ب.
+
+LaTeX Warning: Reference `sec:floatObjs' on page 29 undefined on input line 11.
+
+
+
+LaTeX Warning: Reference `tab:motionModels' on page 29 undefined on input line 
+17.
+
+
+LaTeX Warning: Reference `tab:motionModelsCont' on page 29 undefined on input l
+ine 40.
+
+[29] (./main.mw)
+
+LaTeX Warning: Reference `alg:DLT' on page 30 undefined on input line 79.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.87088pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.87088pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.87088pt}.
+
+[30] (./main.mw)
+
+LaTeX Warning: Reference `alg:DLT' on page 31 undefined on input line 101.
+
+
+LaTeX Warning: Reference `eq:DLT_Ah' on page 31 undefined on input line 112.
+
+
+LaTeX Warning: Reference `alg:simulation-random' on page 31 undefined on input 
+line 120.
+
+
+LaTeX Warning: Reference `alg:RANSAC' on page 31 undefined on input line 152.
+
+
+LaTeX Warning: Reference `code:matlabEx' on page 31 undefined on input line 174
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty)
+(./code/MatlabExample.m)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.87088pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.87088pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.87088pt}.
+
+[31] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.87088pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.87088pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.87088pt}.
+
+[32] (./main.mw)
+
+LaTeX Warning: Reference `fig:twoLion' on page 33 undefined on input line 188.
+
+
+LaTeX Warning: Reference `fig:parabola' on page 33 undefined on input line 213.
+
+
+
+Overfull \hbox (1.43784pt too wide) in paragraph at lines 202--240
+[][]\TU/IRLotusICEE.ttf(0)/m/n/12 لاتک بسته‌هایی با قابلیت‌های زیاد برای رسم ان
+واع مختلف نمودارها دارد. مانند بسته‌های []\TU/LiberationSerif-Regular.ttf(0)/m/
+n/12 Tikz[] \TU/IRLotusICEE.ttf(0)/m/n/12 و []\TU/LiberationSerif-Regular.ttf(0
+)/m/n/12 PSTricks[]\TU/IRLotusICEE.ttf(0)/m/n/12 .[]
+
+Underfull \vbox (badness 3417) has occurred while \output is active
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.87088pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.87088pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.87088pt}.
+
+[33] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.87088pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.87088pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.87088pt}.
+
+[34] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.87088pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.87088pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.87088pt}.
+
+[35] (./main.mw) (./tex/appendix3.tex [36] (./main.mw)
+پیوست پ.
+
+LaTeX Warning: Citation `persianbib87userguide' on page 37 undefined on input l
+ine 20.
+
+
+LaTeX Warning: Citation `persianbib87userguide' on page 37 undefined on input l
+ine 26.
+
+[37] (./main.mw)
+
+LaTeX Warning: Reference `Sec:Ref' on page 38 undefined on input line 54.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[38] (./main.mw)
+
+LaTeX Warning: Citation `UTThesisGuide' on page 39 undefined on input line 84.
+
+
+LaTeX Warning: Citation `UTThesisGuide' on page 39 undefined on input line 106.
+
+
+
+LaTeX Warning: Citation `Khalighi87xepersian' on page 39 undefined on input lin
+e 117.
+
+
+LaTeX Warning: Citation `persianbib87userguide' on page 39 undefined on input l
+ine 117.
+
+
+LaTeX Warning: Citation `Gonzalez02book' on page 39 undefined on input line 117
+.
+
+
+LaTeX Warning: Citation `kim2016integrated' on page 39 undefined on input line 
+117.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[39] (./main.mw)
+
+LaTeX Warning: Citation `UTThesisGuide' on page 40 undefined on input line 127.
+
+
+
+LaTeX Warning: Citation `UTThesisGuide' on page 40 undefined on input line 135.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[40] (./main.mw)
+
+LaTeX Warning: Citation `Baker02limits' on page 41 undefined on input line 175.
+
+
+
+LaTeX Warning: Citation `Amintoosi09video' on page 41 undefined on input line 1
+77.
+
+
+LaTeX Warning: Citation `Gonzalez02book' on page 41 undefined on input line 179
+.
+
+
+LaTeX Warning: Citation `Khalighi07MscThesis' on page 41 undefined on input lin
+e 181.
+
+
+LaTeX Warning: Citation `Borman04thesis' on page 41 undefined on input line 183
+.
+
+
+LaTeX Warning: Citation `Vahedi87' on page 41 undefined on input line 188.
+
+
+LaTeX Warning: Citation `Amintoosi87afzayesh' on page 41 undefined on input lin
+e 190.
+
+
+LaTeX Warning: Citation `Pedram80osool' on page 41 undefined on input line 192.
+
+
+
+LaTeX Warning: Citation `Pourmousa88mscThesis' on page 41 undefined on input li
+ne 194.
+
+
+LaTeX Warning: Reference `sec:refUsage' on page 41 undefined on input line 198.
+
+
+
+LaTeX Warning: Citation `Omidali82phdThesis' on page 41 undefined on input line
+ 200.
+
+
+LaTeX Warning: Citation `persianbib87userguide' on page 41 undefined on input l
+ine 202.
+
+
+LaTeX Warning: Citation `Khalighi87xepersian' on page 41 undefined on input lin
+e 202.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[41] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[42] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[43] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[44] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[45] (./main.mw)
+No file main.bls.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[1] (./main.mw)
+No file main.gls.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[2] (./main.mw)
+No file main.ind.
+[3] (./main.mw) [4] (./main.mw) [5] (./main.mw)
+Overfull \hbox (5.42651pt too wide) in paragraph at lines 105--105
+ [][][][] 
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 105--105
+[][] [] []
+[6] (./main.mw) 
+enddocument/afterlastpage: lastpage setting LastPage.
+(./main.aux (./tex/chapter1.aux) (./tex/chapter2.aux) (./tex/chapter3.aux)
+(./tex/chapter4.aux) (./tex/chapter5.aux) (./tex/appendix1.aux)
+(./tex/appendix2.aux) (./tex/appendix3.aux))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+Package lastpage Warning: Rerun to get the references right on input line 109.
+
+ )
+(see the transcript file for additional information)
+Output written on main.pdf (76 pages).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+The 8-bit codepage and sorting file: cp1256fa.csf
+The top-level auxiliary file: main.aux
+A level-1 auxilliary file: ./tex/chapter1.aux
+A level-1 auxilliary file: ./tex/chapter2.aux
+A level-1 auxilliary file: ./tex/chapter3.aux
+A level-1 auxilliary file: ./tex/chapter4.aux
+A level-1 auxilliary file: ./tex/chapter5.aux
+The style file: plain-fa.bst
+A level-1 auxilliary file: ./tex/appendix1.aux
+A level-1 auxilliary file: ./tex/appendix2.aux
+A level-1 auxilliary file: ./tex/appendix3.aux
+Database file #1: ./tex/MyReferences.bib
+-- plain-fa.bst version 0.9 (2015/05/09) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+
+Done.
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(./tex/tehran-thesis.cls
+
+LaTeX Warning: You have requested document class `./tex/tehran-thesis',
+               but the document class provides `tehran-thesis'.
+
+Document Class: tehran-thesis 05/09/2017 v0.1 Persian thesis document class in 
+XeLaTeX for University of Tehran projects/theses/dissertations
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo))) (./tex/commands.tex
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+
+Package xcolor Warning: Package option `usenames' is obsolete and ignored on in
+put line 266.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/svgnam.def)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpagemodern.sty) 
+)) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/ifdraft.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/todonotes/todonotes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex)))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered
+.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f))))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex))
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-xetex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty)
+Writing index file main.idx
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+(/usr/share/texlive/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xfor/xfor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-fp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp.sty
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(/usr/share/texlive/texmf-dist/tex/latex/fp/defpattern.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-basic.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-addons.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-snap.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-exp.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-trigo.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-pas.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-random.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eqn.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-upn.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eval.sty))))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.st
+y) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty
+(/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/morewrites/morewrites.sty
+(/usr/share/texlive/texmf-dist/tex/latex/morewrites/primargs.sty))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.st
+y) (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/bidi.sty
+****************************************************
+* 
+* bidi package (Bidirectional typesetting in
+* plain TeX and LaTeX, using XeTeX engine)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2007--2023 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub organization
+* 
+* v39.8 (Release Donald Ervin Knuth), 2023/08/02
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/bidi
+* 
+* Issue tracker: https://github.com/kvafa/bidi/issues
+* 
+* Discussions: https://github.com/kvafa/bidi/discussions
+* 
+* Primary author of bidi package: Vafa Khalighi.
+* 
+****************************************************
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/biditools.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/book-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/amsmath-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/amstext-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/amsthm-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/caption-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/caption3-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/color-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/xcolor-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/colortbl-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/float-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/graphicx-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/geometry-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/tabularx-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/longtable-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/hyperref-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/fancyhdr-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/framed-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/listings-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/pgfcorescopes.code-xetex-bidi.d
+ef) (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/array-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/pgfsys.code-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/rotating-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/tabulary-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/tocbibind-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/tocloft-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/tc-xetex-bidi.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/todonotes-xetex-bidi.def))
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.def))
+****************************************************
+* 
+* xepersian package (Persian for LaTeX, using XeTeX engine)
+* 
+* Description: The package supports Persian
+* typesetting, using fonts provided in the
+* distribution.
+* 
+* Copyright (c) 2008--2023 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub Organization
+* 
+* v25.0 (Release Women, Life, and Freedom), 2023/08/30
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/xepersian
+* 
+* Issue tracker: https://github.com/kvafa/xepersian/issues
+* 
+* Discussions: https://github.com/kvafa/xepersian/discussions
+* 
+* Primary author of xepersian package: Vafa Khalighi.
+* 
+****************************************************
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
+) (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/footnote-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/listings-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/algorithmic-xepersian.def)
+ (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/algorithm-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/framed-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/glossaries-xepersian.def
+
+Package glossaries Warning: \glsaddprotectedpagefmt has no effect with esclocat
+ions=false on input line 41.
+
+
+Package glossaries Warning: \glsaddprotectedpagefmt has no effect with esclocat
+ions=false on input line 42.
+
+
+Package glossaries Warning: \glsaddprotectedpagefmt has no effect with esclocat
+ions=false on input line 43.
+
+) (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/hyperref-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/tocloft-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/url-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/book-xepersian.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/bidi/extrafootnotefeatures-xetex-bid
+i.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/extrafootnotefeatures-xepe
+rsian.def))
+
+Package amsthm Warning: Unknown theoremstyle `theorem' on input line 176.
+
+) (./tex/faTitle.tex) (./tex/enTitle.tex) (./tex/glossaries-settings.tex)
+(./tex/words.tex) (./tex/acronyms.tex) (./main.aux (./tex/chapter1.aux)
+(./tex/chapter2.aux) (./tex/chapter3.aux) (./tex/chapter4.aux)
+(./tex/chapter5.aux) (./tex/appendix1.aux) (./tex/appendix2.aux)
+(./tex/appendix3.aux)
+
+LaTeX Warning: Label `LastPage' multiply defined.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(./main.out) (./main.out)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty)
+(./tex/thesis_preamble.tex
+Overfull \hbox (5.42651pt too wide) in paragraph at lines 2--2
+ [][][][] 
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+
+LaTeX Font Warning: Font shape `TU/IRLotusICEE.ttf(1)/bx/n' undefined
+(Font)              using `TU/IRLotusICEE.ttf(1)/m/n' instead on input line 2.
+
+
+LaTeX Font Warning: Font shape `TU/IRLotusICEE.ttf(1)/m/it' undefined
+(Font)              using `TU/IRLotusICEE.ttf(1)/m/n' instead on input line 2.
+
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 2--2
+[][] [] []
+
+LaTeX Font Warning: Font shape `TU/IRTitr.ttf(1)/b/n' undefined
+(Font)              using `TU/IRTitr.ttf(1)/m/n' instead on input line 2.
+
+[1] (./main.mw) [2] (./main.mw) [3] (./main.mw) [4] (./main.mw)
+Overfull \hbox (5.42651pt too wide) in paragraph at lines 14--14
+ [][][][] 
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 14--14
+[][] [] []
+[5] (./main.mw) [6] (./main.mw)
+Overfull \hbox (21.20624pt too wide) in paragraph at lines 14--14
+[][]$[]$ $[]$ $[]$ []
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[][]
+[7] (./main.mw) [8] (./main.mw) [9] (./main.mw) [10] (./main.mw) [11]
+(./main.mw) [12] (./main.mw)
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[][]
+[13] (./main.mw) [14] (./main.mw) [15] (./main.mw) [16] (./main.mw)
+Overfull \hbox (1.71272pt too wide) in paragraph at lines 15--15
+[][]\TU/LiberationSerif-Regular.ttf(0)/m/n/12 thesis[] \TU/IRLotusICEE.ttf(0)/m
+/n/12 و بستهٔ زی‌پرشین در []\TU/LiberationSerif-Regular.ttf(0)/m/n/12 L[]T[]X[]
+ \TU/IRLotusICEE.ttf(0)/m/n/12 تهیه شده است. این قالب به گونه‌ای طراحی شده است 
+که مطابق با دستورالعمل[]
+[17] (./main.mw) [18] (./main.mw) (./main.toc
+
+LaTeX Font Warning: Font shape `TU/IRLotusICEE.ttf(1)/b/n' undefined
+(Font)              using `TU/IRLotusICEE.ttf(1)/m/n' instead on input line 6.
+
+
+Underfull \vbox (badness 3179) has occurred while \output is active [1]
+(./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[2] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[3] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[4] (./main.mw) (./main.lof) [5] (./main.mw) (./main.lot) [6] (./main.mw)
+(./main.loa) [7] (./main.mw) (./main.lol) [8] (./main.mw)
+No file main.acr.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[9] (./main.mw)) (./tex/chapter1.tex
+فصل 1.
+
+LaTeX Warning: Citation `Khalighi87xepersian' on page 1 undefined on input line
+ 10.
+
+
+LaTeX Warning: Citation `UTThesisGuide' on page 1 undefined on input line 16.
+
+[1] (./main.mw)
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[2] (./main.mw)
+Overfull \hbox (9.78835pt too wide) in paragraph at lines 102--112
+[][]\TU/LiberationSerif-Regular.ttf(0)/m/n/12 TeXstudio[]\TU/IRLotusICEE.ttf(0)
+/m/n/12 ، []\TU/LiberationSerif-Regular.ttf(0)/m/n/12 Texmaker[] \TU/IRLotusICE
+E.ttf(0)/m/n/12 و []\TU/LiberationSerif-Regular.ttf(0)/m/n/12 BiDiTeXmaker[] \T
+U/IRLotusICEE.ttf(0)/m/n/12 بدین منظور تولید شده‌اند. می‌توان ویرایش‌گر [][][][
+]\TU/LiberationSerif-Regular.ttf(0)/m/n/12 BiDiTeXmaker[][][][][][][][][][]
+
+Overfull \hbox (3.40427pt too wide) in paragraph at lines 159--170
+[][]\TU/IRLotusICEE.ttf(0)/m/n/12 برای راحتی بیشتر، کلاس []\TU/LiberationSerif-
+Regular.ttf(0)/m/n/12 tehran-thesis.cls[] \TU/IRLotusICEE.ttf(0)/m/n/12 طوری طر
+احی شده است که کافی است فقط یک‌بار مشخصات[]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[3] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[4] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[5] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[6] (./main.mw)
+
+LaTeX Warning: Citation `kim2016integrated' on page 7 undefined on input line 3
+06.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[7] (./main.mw)
+Underfull \vbox (badness 3333) has occurred while \output is active
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[8] (./main.mw)
+
+LaTeX Warning: Citation `UTThesisGuide' on page 9 undefined on input line 331.
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[9] (./main.mw) (./tex/chapter2.tex [10] (./main.mw)
+فصل 2.
+[11] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.89014pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.89014pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.89014pt}.
+
+[12] (./main.mw) (./tex/chapter3.tex
+فصل 3.
+[13] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[14] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[15] (./main.mw) (./tex/chapter4.tex [16] (./main.mw)
+فصل 4.
+)
+Underfull \vbox (badness 10000) has occurred while \output is active [17]
+(./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.86447pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.86447pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.86447pt}.
+
+[18] (./main.mw) (./tex/chapter5.tex
+فصل 5.
+[19] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[20] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[21] (./main.mw) (./main.bbl [22] (./main.mw)
+
+LaTeX Font Warning: Font shape `TU/LiberationSerif-Regular.ttf(0)/m/sc' undefin
+ed
+(Font)              using `TU/LiberationSerif-Regular.ttf(0)/m/n' instead on in
+put line 36.
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 42--50
+[][]\TU/IRLotusICEE.ttf(0)/m/n/10.95 تحصیلات‌تکمیلی.  دستورالعمل نگارش و تدوین 
+پایان‌نامه دانشجویان مقطع کارشناسی ارشد و دکتری.[]
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--59
+[][]\TU/IRLotusICEE.ttf(0)/m/n/10.95 خلیقی، وفا.  زی‌پرشین ([]$[][]$[]): بسته ف
+ارسی برای حروف‌چینی در []\TU/LiberationSerif-Regular.ttf(0)/m/n/10.95 L[]T[]X2e
+[]\TU/IRLotusICEE.ttf(0)/m/n/10.95 .[]
+[23] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[24] (./main.mw) (./tex/appendix1.tex
+پیوست آ.
+
+Underfull \vbox (badness 10000) has occurred while \output is active [25]
+(./main.mw)
+Underfull \vbox (badness 1371) has occurred while \output is active
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[26] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[27] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[28] (./main.mw)
+
+LaTeX Warning: Citation `Gonzalez02book' on page 29 undefined on input line 134
+.
+
+
+Overfull \hbox (18.16856pt too wide) in paragraph at lines 142--142
+[][]\TU/lmtt/m/n/12 Gonzalez, R.C., and Woods, R.E. {\em Digital Image Processi
+ng}, 3rd ed..[] []
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[29] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[30] (./main.mw) (./tex/appendix2.tex
+پیوست ب.
+[31] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.87088pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.87088pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.87088pt}.
+
+[32] (./main.mw) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+) (./code/MatlabExample.m)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.87088pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.87088pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.87088pt}.
+
+[33] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.87088pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.87088pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.87088pt}.
+
+[34] (./main.mw)
+Overfull \hbox (1.43784pt too wide) in paragraph at lines 202--240
+[][]\TU/IRLotusICEE.ttf(0)/m/n/12 لاتک بسته‌هایی با قابلیت‌های زیاد برای رسم ان
+واع مختلف نمودارها دارد. مانند بسته‌های []\TU/LiberationSerif-Regular.ttf(0)/m/
+n/12 Tikz[] \TU/IRLotusICEE.ttf(0)/m/n/12 و []\TU/LiberationSerif-Regular.ttf(0
+)/m/n/12 PSTricks[]\TU/IRLotusICEE.ttf(0)/m/n/12 .[]
+
+Underfull \vbox (badness 3417) has occurred while \output is active
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.87088pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.87088pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.87088pt}.
+
+[35] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.87088pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.87088pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.87088pt}.
+
+[36] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.87088pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.87088pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.87088pt}.
+
+[37] (./main.mw) (./tex/appendix3.tex [38] (./main.mw)
+پیوست پ.
+
+LaTeX Warning: Citation `persianbib87userguide' on page 39 undefined on input l
+ine 20.
+
+
+LaTeX Warning: Citation `persianbib87userguide' on page 39 undefined on input l
+ine 26.
+
+[39] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[40] (./main.mw)
+
+LaTeX Warning: Citation `UTThesisGuide' on page 41 undefined on input line 84.
+
+
+LaTeX Warning: Citation `UTThesisGuide' on page 41 undefined on input line 106.
+
+
+
+LaTeX Warning: Citation `Khalighi87xepersian' on page 41 undefined on input lin
+e 117.
+
+
+LaTeX Warning: Citation `persianbib87userguide' on page 41 undefined on input l
+ine 117.
+
+
+LaTeX Warning: Citation `Gonzalez02book' on page 41 undefined on input line 117
+.
+
+
+LaTeX Warning: Citation `kim2016integrated' on page 41 undefined on input line 
+117.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[41] (./main.mw)
+
+LaTeX Warning: Citation `UTThesisGuide' on page 42 undefined on input line 127.
+
+
+
+LaTeX Warning: Citation `UTThesisGuide' on page 42 undefined on input line 135.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[42] (./main.mw)
+
+LaTeX Warning: Citation `Baker02limits' on page 43 undefined on input line 175.
+
+
+
+LaTeX Warning: Citation `Amintoosi09video' on page 43 undefined on input line 1
+77.
+
+
+LaTeX Warning: Citation `Gonzalez02book' on page 43 undefined on input line 179
+.
+
+
+LaTeX Warning: Citation `Khalighi07MscThesis' on page 43 undefined on input lin
+e 181.
+
+
+LaTeX Warning: Citation `Borman04thesis' on page 43 undefined on input line 183
+.
+
+
+LaTeX Warning: Citation `Vahedi87' on page 43 undefined on input line 188.
+
+
+LaTeX Warning: Citation `Amintoosi87afzayesh' on page 43 undefined on input lin
+e 190.
+
+
+LaTeX Warning: Citation `Pedram80osool' on page 43 undefined on input line 192.
+
+
+
+LaTeX Warning: Citation `Pourmousa88mscThesis' on page 43 undefined on input li
+ne 194.
+
+
+LaTeX Warning: Citation `Omidali82phdThesis' on page 43 undefined on input line
+ 200.
+
+
+LaTeX Warning: Citation `persianbib87userguide' on page 43 undefined on input l
+ine 202.
+
+
+LaTeX Warning: Citation `Khalighi87xepersian' on page 43 undefined on input lin
+e 202.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[43] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[44] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[45] (./main.mw)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[46] (./main.mw))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[47] (./main.mw)
+No file main.bls.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[1] (./main.mw)
+No file main.gls.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.00562pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.00562pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.00562pt}.
+
+[2] (./main.mw)
+No file main.ind.
+[3] (./main.mw) [4] (./main.mw) [5] (./main.mw)
+Overfull \hbox (5.42651pt too wide) in paragraph at lines 105--105
+ [][][][] 
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 105--105
+[][] [] []
+[6] (./main.mw) 
+enddocument/afterlastpage: lastpage setting LastPage.
+(./main.aux (./tex/chapter1.aux) (./tex/chapter2.aux) (./tex/chapter3.aux)
+(./tex/chapter4.aux) (./tex/chapter5.aux) (./tex/appendix1.aux)
+(./tex/appendix2.aux) (./tex/appendix3.aux))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information)
+Output written on main.pdf (80 pages).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+The 8-bit codepage and sorting file: cp1256fa.csf
+The top-level auxiliary file: main.aux
+A level-1 auxilliary file: ./tex/chapter1.aux
+A level-1 auxilliary file: ./tex/chapter2.aux
+A level-1 auxilliary file: ./tex/chapter3.aux
+A level-1 auxilliary file: ./tex/chapter4.aux
+A level-1 auxilliary file: ./tex/chapter5.aux
+The style file: plain-fa.bst
+A level-1 auxilliary file: ./tex/appendix1.aux
+A level-1 auxilliary file: ./tex/appendix2.aux
+A level-1 auxilliary file: ./tex/appendix3.aux
+Database file #1: ./tex/MyReferences.bib
+-- plain-fa.bst version 0.9 (2015/05/09) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+
+Done.
