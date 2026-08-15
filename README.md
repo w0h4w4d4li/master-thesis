@@ -21,7 +21,7 @@
 <div dir="ltr">
 
 ```bash
-git clone https://github.com/w0h4w4d4li/master-thesis --single-branch
+git clone https://github.com/w0h4w4d4li/master-thesis
 ```
 
 </div>
