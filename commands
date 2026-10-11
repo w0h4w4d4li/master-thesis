@@ -1,1 +1,2 @@
 latexmk -bibtex -pdf main.tex
+bibtex main.aux
